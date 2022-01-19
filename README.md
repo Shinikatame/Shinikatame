@@ -5,7 +5,7 @@
     - [ ] **Flask**
     - [ ] **Selenium**
 - [x] **~~_HTML5 CSS3_~~** 
-    - [x] **SCSS**
+    - [x] **~~SCSS~~**
     - [ ] **Bootstrap**
 - [x] **_JavaScript_**
 - [x] **_SQL_**
