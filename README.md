@@ -1,17 +1,17 @@
-# **Linguagens de Programação, Marcação e Consulta à aprender**
+**_Linguagens de Programação, Marcação e Consulta à aprender_**
 
-- [x] ## **_Python_** 
-- [x] ## **_HTML5_** 
-- [x] ## **_CSS3_** 
-- [x] - [ ] ## **_JavaScript_**
-* ## **_SQL_** -[x] -[]
+- [x] **~~Python~~** 
+- [x] **~~HTML5~~** 
+- [x] **_CSS3_** 
+- [x] **_JavaScript_**
+- [x] **_SQL_**
 
-* ## **_C#_** -[]
-* ## **_C_** -[]
+- [ ] **_C#_**
+- [ ] **_C_**
 
 ***
 
-# **Possíveis**
+**_Possíveis_**
 
-* ## **_Java_**
-* ## **_Swift_**
+* **_Java_**
+* **_Swift_**
