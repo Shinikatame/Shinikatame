@@ -15,5 +15,5 @@
 
 ## **Prováveis**
 
-- [ ] **_Java_**
-- [ ] **_Swift_**
+* **_Java_**
+* **_Swift_**
