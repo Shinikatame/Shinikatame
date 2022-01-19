@@ -2,11 +2,11 @@
 
 - [x] **~~_Python_~~** 
     - [x] **~~Django~~**
-    - [] **Flask**
-    - [] **Selenium**
+    - [ ] **Flask**
+    - [ ] **Selenium**
 - [x] **~~_HTML5 CSS3_~~** 
     - [x] **SCSS**
-    - [] **Bootstrap**
+    - [ ] **Bootstrap**
 - [x] **_JavaScript_**
 - [x] **_SQL_**
 
