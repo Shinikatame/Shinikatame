@@ -1,4 +1,4 @@
-#### **Linguagens de Programação, Marcação e Consulta à aprender**
+## **Linguagens de Programação, Marcação e Consulta à aprender**
 
 - [x] **~~Python~~** 
 - [x] **~~HTML5~~** 
@@ -11,7 +11,7 @@
 
 ***
 
-**_Prováveis_**
+## **_Prováveis_**
 
 * **_Java_**
 * **_Swift_**
