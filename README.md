@@ -1,16 +1,21 @@
-### Hi there 👋
+# **Linguagens de Programação, Marcação e Consulta à aprender**
 
-<!--
-**Shinikatame/Shinikatame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+* ## **_Python_** [x]
+* ## **_HTML5_** [x]
+* ## **_CSS3_** [x]
+* ## **_JavaScript_** [x][]
+* ## **_SQL_** [x][]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ## **_C#_** []
+* ## **_C_** []
+
+***
+
+# **Possíveis**
+
+***
+
+* ## **_Java_**
+* ## **_Swift_**
