@@ -39,6 +39,6 @@
     
   <a href="https://myanimelist.net/animelist/Shinikatame" target="_blank"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/shinikatame/shinikatame/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Shinikatame/Shinikatame/blob/output/github-contribution-grid-snake.svg)
  
 </div>
