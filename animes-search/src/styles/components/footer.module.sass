@@ -1,0 +1,27 @@
+@use '../variables'
+@use '../mixin'
+
+.footer
+    @include mixin.flex-row
+    
+    width: 100%
+    padding: 20px 0
+    background-color: #11161D
+
+    span
+        color: white
+        text-shadow: 0 0 10px black
+        font-size: 1.1em
+        margin-left:  10px
+        font-family: 'Times New Roman', Times, serif
+
+    nav 
+        margin-right:  10px
+
+        a
+            font-size: 1.5em
+            margin: 5px
+            color: #7a858f
+            
+            &:hover
+                color: #1A1C21

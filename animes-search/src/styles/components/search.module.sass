@@ -1,0 +1,61 @@
+@use '../variables'
+@use '../mixin'
+
+.main
+    @include mixin.flex-center
+    display: -moz-box
+    width: 100%
+    height: 100%
+
+    h1
+        color: white
+        font-family: variables.$logo
+        margin-bottom: 10px
+        font-size: 5em
+        text-shadow: 0 0 10px black
+
+        span
+            color: #13a1f9
+    
+    input
+        font-family: variables.$search
+        font-size: 1em
+        width: 50vw
+        padding: 15px 10px
+        border-radius: 10px
+
+        &::placeholder
+            font-family: variables.$placeholder
+
+    ul 
+        padding-top: 10px
+        max-height: 300px
+        overflow-y: auto
+        list-style:  none
+        border-radius: 0px 0px 10px 10px
+
+        a
+            font-family: variables.$search
+
+            &:visited, &:link
+                text-decoration: none
+
+            li
+                @include mixin.flex-row
+                padding: 10px
+                width: 45vw
+                padding: 7px
+
+                span
+                    width: 100%
+                    margin-left: 10px
+
+.main.dark
+    background-color: variables.$bg-dark
+
+    input, ul, a
+        background-color: variables.$input-dark
+        color: variables.$text-dark
+
+    input::placeholder
+        color: variables.$placeholder-dark
